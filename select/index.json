@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "黄昏サラウンド",
+  "base_artist": "RIP SLYME",
+  "createdAt": "2026-03-04T17:30:46.501053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黄昏サラウンド (tofubeats REMIX)",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/01_黄昏サラウンド_(tofubeats_REMIX)_RIP_SLYME.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "黄昏サラウンド",
+      "artist": "RIPSLYME",
+      "has_synced": true,
+      "path": "select/02_黄昏サラウンド_RIPSLYME.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "黄昏サラウンド",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/03_黄昏サラウンド_RIP_SLYME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黄昏サラウンド",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_黄昏サラウンド_RIP_SLYME.txt"
+    }
+  ]
+}
